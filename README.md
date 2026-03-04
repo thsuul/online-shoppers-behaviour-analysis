@@ -5,6 +5,7 @@ An exploratory data analysis and Tableau visualization project based on the Onli
 ## Dashboard
 
 👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/amina.baiturgan/viz/OnlineShoppersBehaviourAnalysis/-#1)
+
 ![Dashboard](dashboard.png)
 
 ## Dataset
