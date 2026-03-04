@@ -11,8 +11,11 @@ An exploratory data analysis and Tableau visualization project based on the Onli
 ## Dataset
 
 Source: [Original GitHub Repository](https://github.com/thsuul/online-shoppers-behaviour-analysis)
+
 File: online_shoppers_intention.xlsx
+
 Records: ~12,300 sessions
+
 Features: Administrative, Informational, ProductRelated pages, BounceRates, ExitRates, Revenue, OperatingSystems, and more
 
 ## Questions Answered
