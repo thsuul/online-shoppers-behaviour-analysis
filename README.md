@@ -31,18 +31,25 @@ Features: Administrative, Informational, ProductRelated pages, BounceRates, Exit
 ## Visualizations
 
 Pie Chart — Purchase Conversion Rate (TRUE vs FALSE)
+
 Bar Chart — Distribution of Operating Systems
+
 Bar Chart — Average Time Spent by Page Type
+
 Scatter Plot — Bounce Rate vs Revenue with trend lines (Correlation = -0.15)
 
 ## Tools Used
 
 Microsoft Excel — data analysis & calculations
+
 Tableau Public — interactive dashboard
 
 ## Key Insights
 
 Only 1 in 6 visitors makes a purchase
+
 Visitors spend the majority of their time (~92%) on product-related pages
+
 Higher bounce rate is weakly associated with lower purchase probability
+
 OS 2 accounts for over half of all sessions
