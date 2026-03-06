@@ -10,7 +10,7 @@ An exploratory data analysis and Tableau visualization project based on the Onli
 
 ## Dataset
 
-Source: [Original GitHub Repository]([https://github.com/thsuul/online-shoppers-behaviour-analysis](https://github.com/rohanmistry231/Practice-Datasets-for-Excel/tree/main/Online%20Shoppers%20Intention))
+Source: [Original GitHub Repository]([https://github.com/thsuul/online-shoppers-behaviour-analysis](https://github.com/rohanmistry231/Practice-Datasets-for-Excel/tree/main/Online%20Shoppers%20Intention])
 
 File: online_shoppers_intention.xlsx
 
